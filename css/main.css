@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+}
+
+body {
+    margin: 30px;
+    background: salmon;
+}
+
+.profile-container {
+    max-width: 300px;
+    background-color: #fff;
+    border: solid 1px #333;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.profile-image {
+    width: 100%;
+    height: auto;
+}
+
+.profile-name {
+    text-align: center;
+}
